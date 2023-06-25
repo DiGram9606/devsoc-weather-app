@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/devsoc-weather-app/static/css/main.b94dcd56.css",
+    "main.css": "/devsoc-weather-app/static/css/main.056970d1.css",
     "main.js": "/devsoc-weather-app/static/js/main.7f67b595.js",
     "static/media/Aestheticshiz.jpg": "/devsoc-weather-app/static/media/Aestheticshiz.d93f7f588a15305d2c01.jpg",
     "index.html": "/devsoc-weather-app/index.html",
-    "main.b94dcd56.css.map": "/devsoc-weather-app/static/css/main.b94dcd56.css.map",
+    "main.056970d1.css.map": "/devsoc-weather-app/static/css/main.056970d1.css.map",
     "main.7f67b595.js.map": "/devsoc-weather-app/static/js/main.7f67b595.js.map"
   },
   "entrypoints": [
-    "static/css/main.b94dcd56.css",
+    "static/css/main.056970d1.css",
     "static/js/main.7f67b595.js"
   ]
 }
