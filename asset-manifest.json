@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/devsoc-weather-app/static/css/main.ccd68b2a.css",
+    "main.js": "/devsoc-weather-app/static/js/main.7f67b595.js",
+    "static/media/Aestheticshiz.jpg": "/devsoc-weather-app/static/media/Aestheticshiz.d93f7f588a15305d2c01.jpg",
+    "index.html": "/devsoc-weather-app/index.html",
+    "main.ccd68b2a.css.map": "/devsoc-weather-app/static/css/main.ccd68b2a.css.map",
+    "main.7f67b595.js.map": "/devsoc-weather-app/static/js/main.7f67b595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd68b2a.css",
+    "static/js/main.7f67b595.js"
+  ]
+}
